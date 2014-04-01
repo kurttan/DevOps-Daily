@@ -1,0 +1,5 @@
+*.log
+nohup.out
+erl_crash.dump
+.DS_Store
+*.pyc
